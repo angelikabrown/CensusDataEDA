@@ -1,5 +1,4 @@
 Transportation Mode,Earnings Bracket,Value
-"Car, Truck, or Van - Drove Alone",Total,112367653
 "Car, Truck, or Van - Drove Alone","$1 to $9,999 or loss",9330559
 "Car, Truck, or Van - Drove Alone","$10,000 to $14,999",5144909
 "Car, Truck, or Van - Drove Alone","$15,000 to $24,999",10731449
@@ -8,7 +7,6 @@ Transportation Mode,Earnings Bracket,Value
 "Car, Truck, or Van - Drove Alone","$50,000 to $64,999",16430128
 "Car, Truck, or Van - Drove Alone","$65,000 to $74,999",7673675
 "Car, Truck, or Van - Drove Alone","$75,000 or more",30773302
-"Car, Truck, or Van - Carpooled",Total,14607910
 "Car, Truck, or Van - Carpooled","$1 to $9,999 or loss",1969381
 "Car, Truck, or Van - Carpooled","$10,000 to $14,999",914582
 "Car, Truck, or Van - Carpooled","$15,000 to $24,999",1912526
@@ -17,7 +15,6 @@ Transportation Mode,Earnings Bracket,Value
 "Car, Truck, or Van - Carpooled","$50,000 to $64,999",1792437
 "Car, Truck, or Van - Carpooled","$65,000 to $74,999",737250
 "Car, Truck, or Van - Carpooled","$75,000 or more",2558210
-Public Transportation (excluding taxicab),Total,5734976
 Public Transportation (excluding taxicab),"$1 to $9,999 or loss",589616
 Public Transportation (excluding taxicab),"$10,000 to $14,999",315881
 Public Transportation (excluding taxicab),"$15,000 to $24,999",629959
@@ -26,7 +23,6 @@ Public Transportation (excluding taxicab),"$35,000 to $49,999",778592
 Public Transportation (excluding taxicab),"$50,000 to $64,999",596128
 Public Transportation (excluding taxicab),"$65,000 to $74,999",294617
 Public Transportation (excluding taxicab),"$75,000 or more",1868704
-"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Total,7225722
 "Taxicab, Motorcycle, Bicycle, Walked, or Other Means","$1 to $9,999 or loss",1372898
 "Taxicab, Motorcycle, Bicycle, Walked, or Other Means","$10,000 to $14,999",548786
 "Taxicab, Motorcycle, Bicycle, Walked, or Other Means","$15,000 to $24,999",939471
@@ -35,7 +31,6 @@ Public Transportation (excluding taxicab),"$75,000 or more",1868704
 "Taxicab, Motorcycle, Bicycle, Walked, or Other Means","$50,000 to $64,999",665880
 "Taxicab, Motorcycle, Bicycle, Walked, or Other Means","$65,000 to $74,999",295260
 "Taxicab, Motorcycle, Bicycle, Walked, or Other Means","$75,000 or more",1548455
-Worked from Home,Total,22481340
 Worked from Home,"$1 to $9,999 or loss",1512479
 Worked from Home,"$10,000 to $14,999",813935
 Worked from Home,"$15,000 to $24,999",1424288
