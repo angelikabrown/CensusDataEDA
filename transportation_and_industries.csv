@@ -1,0 +1,66 @@
+Transportation Mode,Industry,Value
+"Car, Truck, or Van - Drove Alone","Agriculture, forestry, fishing and hunting, and mining",1733974
+"Car, Truck, or Van - Drove Alone",Construction,8311014
+"Car, Truck, or Van - Drove Alone",Manufacturing,12160846
+"Car, Truck, or Van - Drove Alone",Wholesale trade,2384439
+"Car, Truck, or Van - Drove Alone",Retail trade,12536727
+"Car, Truck, or Van - Drove Alone","Transportation and warehousing, and utilities",7388572
+"Car, Truck, or Van - Drove Alone","Information and finance and insurance, and real estate and rental and leasing",7643133
+"Car, Truck, or Van - Drove Alone","Professional, scientific, and management, and administrative and waste management services",11199704
+"Car, Truck, or Van - Drove Alone","Educational services, and health care and social assistance",27387805
+"Car, Truck, or Van - Drove Alone","Arts, entertainment, and recreation, and accommodation and food services",9694286
+"Car, Truck, or Van - Drove Alone",Other services (except public administration),5395829
+"Car, Truck, or Van - Drove Alone",Public administration,5616662
+"Car, Truck, or Van - Drove Alone",Armed forces,923091
+"Car, Truck, or Van - Carpooled","Agriculture, forestry, fishing and hunting, and mining",296407
+"Car, Truck, or Van - Carpooled",Construction,1423588
+"Car, Truck, or Van - Carpooled",Manufacturing,1487274
+"Car, Truck, or Van - Carpooled",Wholesale trade,263890
+"Car, Truck, or Van - Carpooled",Retail trade,1716086
+"Car, Truck, or Van - Carpooled","Transportation and warehousing, and utilities",790868
+"Car, Truck, or Van - Carpooled","Information and finance and insurance, and real estate and rental and leasing",739354
+"Car, Truck, or Van - Carpooled","Professional, scientific, and management, and administrative and waste management services",1444296
+"Car, Truck, or Van - Carpooled","Educational services, and health care and social assistance",3375506
+"Car, Truck, or Van - Carpooled","Arts, entertainment, and recreation, and accommodation and food services",1726068
+"Car, Truck, or Van - Carpooled",Other services (except public administration),732610
+"Car, Truck, or Van - Carpooled",Public administration,492845
+"Car, Truck, or Van - Carpooled",Armed forces,120835
+Public Transportation (excluding taxicab),"Agriculture, forestry, fishing and hunting, and mining",35402
+Public Transportation (excluding taxicab),Construction,228302
+Public Transportation (excluding taxicab),Manufacturing,260671
+Public Transportation (excluding taxicab),Wholesale trade,73064
+Public Transportation (excluding taxicab),Retail trade,561354
+Public Transportation (excluding taxicab),"Transportation and warehousing, and utilities",277706
+Public Transportation (excluding taxicab),"Information and finance and insurance, and real estate and rental and leasing",716423
+Public Transportation (excluding taxicab),"Professional, scientific, and management, and administrative and waste management services",970801
+Public Transportation (excluding taxicab),"Educational services, and health care and social assistance",1343056
+Public Transportation (excluding taxicab),"Arts, entertainment, and recreation, and accommodation and food services",723895
+Public Transportation (excluding taxicab),Other services (except public administration),263419
+Public Transportation (excluding taxicab),Public administration,266121
+Public Transportation (excluding taxicab),Armed forces,15044
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means","Agriculture, forestry, fishing and hunting, and mining",152944
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Construction,306059
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Manufacturing,448995
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Wholesale trade,99436
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Retail trade,864633
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means","Transportation and warehousing, and utilities",373410
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means","Information and finance and insurance, and real estate and rental and leasing",556490
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means","Professional, scientific, and management, and administrative and waste management services",852850
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means","Educational services, and health care and social assistance",1735786
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means","Arts, entertainment, and recreation, and accommodation and food services",1088849
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Other services (except public administration),364236
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Public administration,217701
+"Taxicab, Motorcycle, Bicycle, Walked, or Other Means",Armed forces,165809
+Worked from Home,"Agriculture, forestry, fishing and hunting, and mining",298386
+Worked from Home,Construction,839402
+Worked from Home,Manufacturing,1682621
+Worked from Home,Wholesale trade,480057
+Worked from Home,Retail trade,1436704
+Worked from Home,"Transportation and warehousing, and utilities",796831
+Worked from Home,"Information and finance and insurance, and real estate and rental and leasing",4094017
+Worked from Home,"Professional, scientific, and management, and administrative and waste management services",6207419
+Worked from Home,"Educational services, and health care and social assistance",3799762
+Worked from Home,"Arts, entertainment, and recreation, and accommodation and food services",911367
+Worked from Home,Other services (except public administration),924257
+Worked from Home,Public administration,954765
+Worked from Home,Armed forces,60922
