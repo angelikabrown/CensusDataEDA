@@ -1,0 +1,17 @@
+Gender,Transportation Mode,Number of Workers
+Male,"Car, truck, or van -- drove alone",148075
+Male,"Car, truck, or van -- carpooled",89261
+Male,Public transportation (excluding taxicab),75307
+Male,Walked,32534
+Male,Bicycle,29835
+Male,Motorcycle,48059
+Male,"Taxicab, or other means",16178
+Male,Worked at home,36348
+Female,"Car, truck, or van -- drove alone",95950
+Female,"Car, truck, or van -- carpooled",109745
+Female,Public transportation (excluding taxicab),111288
+Female,Walked,114709
+Female,Bicycle,53759
+Female,Motorcycle,49846
+Female,"Taxicab, or other means",19736
+Female,Worked at home,21362
